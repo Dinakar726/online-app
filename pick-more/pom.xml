@@ -19,12 +19,12 @@
     <finalName>pick-more</finalName>
   </build>
   <distributionManagement>
-		 <snapshotRepository>
+		 <pick-more-snapshot>
 		    <id>nexus</id>
 		    <url>http://13.58.78.118:8081/repository/pick-more-snapshot/</url>
 		 </snapshotRepository>
 		
-		<repository>
+		<pick-more-release>
 		    <id>nexus</id>
 		    <url>http://13.58.78.118:8081/repository/pick-more-release/</url>
 		</repository>
