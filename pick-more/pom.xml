@@ -21,12 +21,12 @@
   <distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <url>http://13.58.78.118:8081/repository/pick-more-snapshot/</url>
+		    <url>http://18.224.64.112:8081/repository/pick-more-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://13.58.78.118:8081/repository/pick-more-release/</url>
+		    <url>http://18.224.64.112:8081/repository/pick-more-release/</url>
 		</repository>
   	</distributionManagement>
 </project>
